@@ -1,6 +1,11 @@
 {"name": "Kate" ,
  "surname": "terekhina" ,
  "my_pet": "cat" ,
- "salary": 500
+ "salary": 500 ,
+ "favorite movie": "Howl's Moving Castle" ,
+ "favorite TV series": "The 10th Kingdom" ,
+ "favorite food": "meat" ,
+ "favorite time of year: "summer" ,
+ "the country you would like to visit": "France"
 }
 
