@@ -5,4 +5,9 @@
    <age>32</age>
    <pet>cat</pet>
    <salary>500$</salary>
+   <favorite movie>"Howl's Moving Castle"</favorite movie>
+   <favorite TV series>"The 10th Kingdom"</favorite TV series>
+   <favorite food>meat</favorite food>
+   <favorite time of years>summer</favorite time of years>
+   <the country you would like to visit>France</the country you would like to visit>
 </info>
